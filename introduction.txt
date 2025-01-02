@@ -1,1 +1,1 @@
-this is a text file
+Host for all the Java lessons
