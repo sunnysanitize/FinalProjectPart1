@@ -1,1 +1,19 @@
-Host for all the Java lessons
+Lesson: Variables &amp; data types / Basic Arithmetic (operators, data types)
+    ● Variables &amp; Data Types Worksheet x 3
+    ● Inputs Worksheet x 3
+    ● Arithmetic operators x 3
+
+Lesson: Decisions (conditional statements) / Boolean operators
+    ● Conditional statements (IF/ELIF/ELSE/Switches) x 3
+    ● Nested Conditional Statements x 3
+    ● Compound Boolean Expressions x 3
+
+Lesson: Loops and Functions
+    ● While Loops Worksheet x 3
+    ● For Loops Worksheet x 3
+    ● Nested Loops Worksheet x 3
+    ● Functions Worksheet x 3
+
+Lesson: Collections
+    ● Lists Worksheet x 3
+    ● 2D Lists Worksheet x 3
