@@ -1,5 +1,5 @@
-Lesson: Variables &amp; data types / Basic Arithmetic (operators, data types)
-    ● Variables &amp; Data Types Worksheet x 3
+Lesson: Variables & data types / Basic Arithmetic (operators, data types)
+    ● Variables & Data Types Worksheet x 3
     ● Inputs Worksheet x 3
     ● Arithmetic operators x 3
 
