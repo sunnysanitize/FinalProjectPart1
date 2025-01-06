@@ -1,17 +1,28 @@
+// Imports scanner
 import java.util.Scanner;
 
 public class Nested3 {
     public static void main(String[] args) {
+
+        // Initializing scanner
         Scanner scanner = new Scanner(System.in);
 
+        // Prompting user input
         System.out.print("How many copies?: ");
+
+        // Reading user input
         int amount = scanner.nextInt();
         
+        // Prompting user input
         System.out.print("Is the user prime? yes or no: ");
+
+        // Reading user input
         String primeStatus = scanner.next().toLowerCase();
 
+        // Discount
         double primeDiscount = 0.1;
 
+        // Decisions, all things are calculated within the nested if statements
         if (primeStatus.equals("yes")) {
 
             if (amount >= 900 && amount < 1000) {

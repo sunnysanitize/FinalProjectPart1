@@ -1,14 +1,22 @@
+// Imports scanner
 import java.util.Scanner;
 
 public class Compound3 {
     public static void main(String[] args) {
+
+        // Initializing scanner
         Scanner scanner = new Scanner(System.in);
 
+        // Prompting user input
         System.out.print("What is your age: ");
+
+        // Reading user input
         int age = scanner.nextInt();
 
-        scanner.nextLine();
+        // Clearing the buffer
+        
 
+        // Prompting user input
         System.out.print("What is your experience: ");
         String experience = scanner.nextLine().trim();
         

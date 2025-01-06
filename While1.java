@@ -1,7 +1,10 @@
+// Imports scanner
 import java.util.Scanner;
 
 public class While1 {
     public static void main(String[] args) {
+
+        // Initializing scanner
         Scanner scanner = new Scanner(System.in);
 
         // Inputs

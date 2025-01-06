@@ -1,7 +1,9 @@
 public class Conditionals1 {
     public static void main(String[] args) {
+        // Initialize boolean variable
         boolean isFrozenIIShowing = true;
 
+        // Decisions
         if (isFrozenIIShowing) {
             System.out.println("Frozen II is showing. Please buy a ticket.");
         } else {
