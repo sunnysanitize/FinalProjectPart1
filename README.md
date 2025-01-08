@@ -5,7 +5,7 @@
 ### **Why Conditional Statements?**
 In programming, decision-making is essential for handling different scenarios and adapting to various inputs. When a program reaches a decision point with multiple possible paths, it evaluates specific conditions to choose the appropriate path. This is achieved through **conditional statements**, such as `if` and `else`. 
 
-## **Conditional Statements in the Java Language
+## **Conditional Statements in the Java Language**
 
 ### **1. `if` Statement**
 Executes a block of code if the specified condition is true.
